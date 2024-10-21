@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  ffi: ^2.1.0
+  ffi: ^2.0.2
   open_file_platform_interface: ^1.0.3
 
 dev_dependencies:
