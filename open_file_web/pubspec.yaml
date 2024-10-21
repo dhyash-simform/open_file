@@ -13,7 +13,6 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
   open_file_platform_interface: ^1.0.3
-  web: ^1.1.0
 
 dev_dependencies:
   flutter_lints: ^4.0.0
